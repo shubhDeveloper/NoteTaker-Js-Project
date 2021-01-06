@@ -1,0 +1,10 @@
+.bg{
+background:#ced6e0;
+}
+.anc{
+text-decoration: none;
+color: white;
+}
+.anc:hover{
+color: black;
+}
